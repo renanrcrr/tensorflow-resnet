@@ -2,7 +2,7 @@
 
 This code demonstrates building a deep ResNet model with several residual blocks of varying depths. 
 
-## Instalation
+## Installation
 
 pip install tensorflow
 
